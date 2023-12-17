@@ -1,10 +1,10 @@
 public class WhileLoopPractice {
     public static void main(String[] args) {
         //Q:1 print 10 to 1 using while loop
-//        int a=1;
-//        while (a<=10){
+//        int a=10;
+//        while (a>=1){
 //            System.out.print(a);
-//            a++;
+//            a--;
 //        }
         //Q:2  print "Hello World" ten times using while loop
 //        int b=1;
@@ -66,6 +66,13 @@ public class WhileLoopPractice {
 //            }
 //            ab++;
 //        }
+        char ab='a';
+        while (ab<='z'){
+            if (ab=='a' || ab=='e' || ab=='i' || ab=='o'|| ab=='u'){
+                System.out.println(ab);
+            }
+            ab++;
+        }
         //Q:6 Print 1 to 10 and break the loop once you find the multiplication of 7 with a message "bye, see you tomorrow"
         int i = 1;
         while (i<=10){
