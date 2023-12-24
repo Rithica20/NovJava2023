@@ -42,7 +42,7 @@ public class WhileLoop {
             if (a == 5) {
                 System.out.println("hi");
                 break; // break statement is allowed inside loops not in conditional stataements
-                // here if statement is used inside the loop so break is allowed
+                // here if statement is used i  nside the loop so break is allowed
                 // break statement will terminate the entire loop
             }
             System.out.println(a);///1 2 3 4 hi
