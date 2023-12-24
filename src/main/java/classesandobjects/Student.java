@@ -25,6 +25,7 @@ public class Student {
         new Student().age = 29;
         new Student().grade = 'C';
 
+
 //
         //null ref object
 //        Student s2 = new Student();

@@ -117,7 +117,7 @@ public class SwitchClasses {
             case "thursday":
                 System.out.println("fourth day in a week");
                 break;
-            case "friday":
+            case "frid":
                 System.out.println("fifth day in a week");
                 break;
             case "saturday":

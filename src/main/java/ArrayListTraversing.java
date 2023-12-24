@@ -19,6 +19,7 @@ public class ArrayListTraversing {
         System.out.println(marksList);
 
 
+
 //        marksList.remove(0);
 //
 //        System.out.println(marksList);

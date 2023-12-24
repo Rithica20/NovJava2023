@@ -36,6 +36,7 @@ public class User {
         System.out.println(u3.name + " " + u3.age + " " + u3.city); //azmoon
 
         System.out.println("-------------------------------------------------------");
+
         u2 = u3;
         System.out.println(u1.name + " " + u1.age + " " + u1.city); //sapna
         System.out.println(u2.name + " " + u2.age + " " + u2.city); //azmoon

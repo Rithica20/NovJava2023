@@ -16,7 +16,6 @@ public class ArraysPractice {
 //            }
 
 
-
         /** Q2: Write a program to create a static Array, having following cricket data:
          --name, age, team name, DOB, gender, Strike Rate
          --Try to create multiple Object Arrays for different players 

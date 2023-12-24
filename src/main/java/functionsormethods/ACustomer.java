@@ -19,6 +19,7 @@ public class ACustomer {
         System.out.println(i);
     }
 
+
     // 2. some return and no input:
     // return type: int
     public int sum() {

@@ -72,6 +72,5 @@ public class ArrayListPractice {
             System.out.println(num.get(i));
         }
 
-
     }
 }

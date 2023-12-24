@@ -158,6 +158,7 @@ public class ArrayListMethods {
 
         System.out.println(arrayList4);
 
+
         //Concept 10 :: Sorting the list
 
         ArrayList arrayList5 = new ArrayList(Arrays.asList(22,12,45,64,78));

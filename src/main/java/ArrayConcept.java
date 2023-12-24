@@ -40,6 +40,7 @@ public class ArrayConcept {
         browsers[2] = "safari";
         browsers[3] = "edge";
         //employee
+
         //age int, name String, active boolean, salary double
 
 

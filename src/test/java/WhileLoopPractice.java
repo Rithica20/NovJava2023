@@ -7,6 +7,7 @@ public class WhileLoopPractice {
 //            a--;
 //        }
 
+
         //Q:2  print "Hello World" ten times using while loop
 //        int b=1;
 //        while (b<=10){
