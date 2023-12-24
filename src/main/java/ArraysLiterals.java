@@ -21,7 +21,6 @@ public class ArraysLiterals {
         System.out.println(Arrays.toString(arr));//it will print value of this arr
 
 
-
         //cricket players
 
 

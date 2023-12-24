@@ -4,7 +4,6 @@ public class ArrayListConcept {
     public static void main(String[] args) {
         ArrayList<Object> al = new ArrayList<Object>(); //class in java by default
         //dynamic array
-
         System.out.println(al.size());
 
         //create an object of ArrayList using new keyword

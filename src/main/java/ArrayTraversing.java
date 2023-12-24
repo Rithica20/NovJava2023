@@ -55,7 +55,6 @@ public class ArrayTraversing {
 //            System.out.println(d1);
 //        }
 
-
 //        String[] browsers = new String[4];
 //
 //        browsers[0] = "chrome";

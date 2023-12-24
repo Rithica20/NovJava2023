@@ -31,7 +31,6 @@ public class Browser {
         }
         return listOfDevices;
     }
-
     public static void main(String[] args) {
 
         Browser b = new Browser();

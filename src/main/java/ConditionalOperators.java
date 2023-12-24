@@ -2,7 +2,6 @@ public class ConditionalOperators {
     public static void main(String[] args) {
         //Conditional Operator ....... >,<,>=,<= ---- primitive datatype
         //String
-
         int x = 10;
         int y = 10;
         //System.out.println(x==y);
