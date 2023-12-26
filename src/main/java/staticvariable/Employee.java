@@ -1,4 +1,4 @@
-package staticmethodandstaticvariable;
+package staticvariable;
 
 public class Employee {
 
