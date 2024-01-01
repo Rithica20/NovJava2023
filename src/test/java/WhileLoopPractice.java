@@ -32,9 +32,9 @@ public class WhileLoopPractice {
 //            System.out.println(c);
 //            c=c+5;
 //        }
-        //Q:4 Print A-Z , a-z, 0-9 with  the respective ASCII numbers the console one using while loop
+        //Q:4 Print Hospital-Z , a-z, 0-9 with  the respective ASCII numbers the console one using while loop
 //        int a1 = 'a';
-//        int a2 ='A';
+//        int a2 ='Hospital';
 //        int a3='0';
 //        while (a1<='z'){
 //            System.out.println(a1);

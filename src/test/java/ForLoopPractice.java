@@ -16,7 +16,7 @@ public class ForLoopPractice {
         //Q:3 print all multiples of 5 range 1 to 100
         for(int i=0;i<=100;i=i+5)
             System.out.println(i);
-        //Q:4 Print A-Z , a-z, 0-9 with  the respective ASCII numbers the console one using while loop
+        //Q:4 Print Hospital-Z , a-z, 0-9 with  the respective ASCII numbers the console one using while loop
         int a1 = 'a';
         int a2 ='A';
         int a3='0';

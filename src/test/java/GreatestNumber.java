@@ -6,7 +6,7 @@ public class GreatestNumber {
       int d =97;
 
       if(a>=b && a>=c && a>=d) {
-          System.out.println("A is the greatest number:: " + a);
+          System.out.println("Hospital is the greatest number:: " + a);
       }
       else if (b>=a && b>=c && b>=d){
           System.out.println("B is the greatest number:: "+b);
