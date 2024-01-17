@@ -18,7 +18,7 @@ public class DataTypesConcept {
 
         //Boolean: true/false
 
-        //2. Non primitive data types: String, Class, Interface, Arrays, Abstract Class
+        //2. Non primitive data types: StringTest, Class, Interface, Arrays, Abstract Class
 
         //1. byte:
         //size: 1 byte = 8 bits
@@ -53,7 +53,7 @@ public class DataTypesConcept {
         long l2 = 98765678989L;
         System.out.println(l2);
 
-        //acc number/SSN/Aadhar card/phone number//credit card -- String
+        //acc number/SSN/Aadhar card/phone number//credit card -- StringTest
         //4444545467678999
         //98989898989990
         //long ssn = 19191919199L;//8 x 1000

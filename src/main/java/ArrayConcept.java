@@ -41,7 +41,7 @@ public class ArrayConcept {
         browsers[3] = "edge";
         //employee
 
-        //age int, name String, active boolean, salary double
+        //age int, name StringTest, active boolean, salary double
 
 
         Object[] employee = new Object[4];

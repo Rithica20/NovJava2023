@@ -29,7 +29,7 @@ public class ArrayListMethods {
         System.out.println(marksList);
 
 //
-//        ArrayList<String> browserName = new ArrayList<>();
+//        ArrayList<StringTest> browserName = new ArrayList<>();
 //
 //        browserName.add("chrome");
 //        browserName.add("firefox");
@@ -87,7 +87,7 @@ public class ArrayListMethods {
 
         //Concept 6 :: One more method to declare ArrayList
 
-//        ArrayList<String> arrayList2 = new ArrayList<>();
+//        ArrayList<StringTest> arrayList2 = new ArrayList<>();
 //        arrayList2.add("sahil");
 //        arrayList2.add("divya");
 //        arrayList2.add("sahil");

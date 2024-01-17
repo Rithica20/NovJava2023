@@ -26,9 +26,9 @@ public class ArraysLiterals {
 
 
         //Array literals
-        // String[] days = {"Sunday", "Monday", "Tuesday", "Wed", "Thur", "Frid", "Sat"};
+        // StringTest[] days = {"Sunday", "Monday", "Tuesday", "Wed", "Thur", "Frid", "Sat"};
 
-//        for(String e: days)
+//        for(StringTest e: days)
 //            System.out.println(e);
 
 
@@ -47,7 +47,7 @@ public class ArraysLiterals {
 //
 //        System.out.println(Arrays.toString(c));
 
-        //  String[] days = {"Sunday", "Monday", "Tuesday", "Wed", "Thur", "Frid", "Sat"};
+        //  StringTest[] days = {"Sunday", "Monday", "Tuesday", "Wed", "Thur", "Frid", "Sat"};
 
 //
 //        Object[] employee = {"Sahil", 28, true,500000.25};
@@ -80,6 +80,6 @@ public class ArraysLiterals {
         //boolean: false
 
 
-        //non-primitive: String, Object: null
+        //non-primitive: StringTest, Object: null
     }
 }

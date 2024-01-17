@@ -24,7 +24,7 @@ public class MethodOverloading {
 //        System.out.println("hello");
 //    }
 //
-//    public void test(String abc){ //1 param
+//    public void test(StringTest abc){ //1 param
 //        System.out.println(abc);
 //    }
 
@@ -35,24 +35,24 @@ public class MethodOverloading {
     //3. doPayment
 
 
-//    public void search(String productName){
+//    public void search(StringTest productName){
 //
 //    }
 //
-//    public void search(String brandName, String colorName){
+//    public void search(StringTest brandName, StringTest colorName){
 //
 //    }
 //
-//    public void search(String brandName, String colorName, int price){
+//    public void search(StringTest brandName, StringTest colorName, int price){
 //
 //    }
 
 
-//    public void login(String un, String pwd){
+//    public void login(StringTest un, StringTest pwd){
 //
 //    }
 //
-//    public void login(String phoneNumber, int otp){
+//    public void login(StringTest phoneNumber, int otp){
 //
 //    }
 

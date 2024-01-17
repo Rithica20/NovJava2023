@@ -5,7 +5,7 @@ public class BankAccount {
      * Assignment 2:
      * Objective: The objective of this assignment is to create a class that uses encapsulation to hide its implementation details and provide a simple interface for clients.
      * Instructions:
-     * Create a class called "BankAccount" with the following private attributes: accountNumber (String), balance (double), and owner (String).
+     * Create a class called "BankAccount" with the following private attributes: accountNumber (StringTest), balance (double), and owner (StringTest).
      * Create getter and setter methods for each attribute.
      * Write a method called "deposit" that takes a double parameter and adds it to the balance.
      * Write a method called "withdraw" that takes a double parameter and subtracts it from the balance.

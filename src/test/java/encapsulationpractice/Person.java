@@ -4,7 +4,7 @@ public class Person {
     /**
      * Objective: The objective of this assignment is to create a class that uses encapsulation to protect its data and provide getter and setter methods for accessing the data.
      * Instructions:
-     * Create a class called "Person" with the following private attributes: name (String), age (int), and gender (String).
+     * Create a class called "Person" with the following private attributes: name (StringTest), age (int), and gender (StringTest).
      * Create getter and setter methods for each attribute.
      * Write a method called "printInfo" that prints out the name, age, and gender of the person.
      * Create an instance of the "Person" class and set its attributes using the setter methods.

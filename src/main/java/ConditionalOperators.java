@@ -1,7 +1,7 @@
 public class ConditionalOperators {
     public static void main(String[] args) {
         //Conditional Operator ....... >,<,>=,<= ---- primitive datatype
-        //String
+        //StringTest
         int x = 10;
         int y = 10;
         //System.out.println(x==y);
@@ -66,7 +66,7 @@ public class ConditionalOperators {
 
         //parallel if situtation
 
-//        String browser = "opera";
+//        StringTest browser = "opera";
 //
 //        if(browser.equals("chrome")){
 //            System.out.println("launch chrome");
@@ -89,7 +89,7 @@ public class ConditionalOperators {
 
 
         //      if - elseif
-//		String browser = "edge";
+//		StringTest browser = "edge";
 //		if(browser.equals("chrome")) {
 //			System.out.println("launch chrome");
 //		}
@@ -106,8 +106,8 @@ public class ConditionalOperators {
 //			System.out.println("plz pass the right browser...."+ browser);
 //		}
 
-//        String browser = "sahil";
-////required: 'char, byte, short, int, Character, Byte, Short, Integer, String, or an enum'
+//        StringTest browser = "sahil";
+////required: 'char, byte, short, int, Character, Byte, Short, Integer, StringTest, or an enum'
 //        switch (browser){
 //
 //            case "chrome":

@@ -32,7 +32,7 @@ public class ArrayListPractice {
         /**
          * Reverse this array List:
          *
-         * ArrayList<String> studentNames = new ArrayList<String>();
+         * ArrayList<StringTest> studentNames = new ArrayList<StringTest>();
          *studentNames.add("Varun");
          *studentNames.add("Reena");
          *studentNames.add("Naveen");

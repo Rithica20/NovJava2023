@@ -6,7 +6,7 @@ public class MainMethodConcept {
     // manin method can not return anything
     // CMA - as it is static method it will be in common memory allocation
     // we can have more than one main method in a class but
-    // JVM will call only the main method which is in this format  public static void main(String[] args)
+    // JVM will call only the main method which is in this format  public static void main(StringTest[] args)
     // no need to create an object for it. --- ///JVM ----MainMethodConcept.main();
     // main method can be overloaded - it is possible
 

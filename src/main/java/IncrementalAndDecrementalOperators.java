@@ -101,7 +101,7 @@ public class IncrementalAndDecrementalOperators {
 //		boolean flag = true;
 //		System.out.println(flag++);
 
-//		String s = "hello";
+//		StringTest s = "hello";
 //		System.out.println(s++);
 
         System.out.println(" e1 and e2");

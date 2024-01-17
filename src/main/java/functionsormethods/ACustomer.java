@@ -30,7 +30,7 @@ public class ACustomer {
         return c;
     }
 
-    // return type: String
+    // return type: StringTest
     public String getTrainerName() {
         System.out.println("getting the trainer from NAL");
         String name = "naveen";

@@ -1,6 +1,6 @@
 public class StringConcatenation {
     public static void main(String[] args) {
-        // String is a class in Java
+        // StringTest is a class in Java
         String s = "hello world";
         System.out.println(s);
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Browser {
     //WAF:
-    //getEmployeeDevicesDetails(String employeeName)
+    //getEmployeeDevicesDetails(StringTest employeeName)
     //you need to get the list of all the devices that employee have.
     // return the list to Admin
 

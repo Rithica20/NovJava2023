@@ -5,7 +5,7 @@ public class CrossBrowser {
     //launch a browser --> chrome//ff/safari/edge  --DONE
     //statement -- browser is launched --DONE
     //return true/false
-    //launchBrowser(String browserName) -- DONE
+    //launchBrowser(StringTest browserName) -- DONE
 
 
     //    chrome -- CHROME

@@ -56,7 +56,7 @@ public class ArrayTraversing {
 //        }
 
 
-//        String[] browsers = new String[4];
+//        StringTest[] browsers = new StringTest[4];
 //
 //        browsers[0] = "chrome";
 //        browsers[1] = "firefox";
@@ -64,7 +64,7 @@ public class ArrayTraversing {
 //        browsers[3] = "edge";
 //
 //
-//        for(String s : browsers){
+//        for(StringTest s : browsers){
 //
 //            if(s.equals("chrome")){
 //                System.out.println("launch chrome");
