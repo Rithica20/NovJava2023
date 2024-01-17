@@ -17,4 +17,30 @@ public class BMW extends Car{
     public void autoParing() {
         System.out.println("BMW----autoparking");
     }
+
+    //static method cannot be overridden - NO
+    //can static be inherited ? - YES it is inherited
+
+//	public static void billing() {
+//		System.out.println("bmw-billing");
+//	}
+
+
+    //can private methods be overriden ? -- NO
+    //can private method be inherited ? --  NO
+
+    private void testing() {
+        System.out.println("BMW---testing");
+    }
+
+
+    //final methods
+
+    //can final method be overriden -- NO
+    //can final method be inhertited -- YES
+
+//	@Override
+//	public final void power() {
+//		System.out.println("bmw --- power");
+//	}
 }
